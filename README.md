@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alac1984
-- 👀 I’m interested in Python, PostgreSQL and Django.
+- 👀 I’m interested in Python, PostgreSQL and FastAPI.
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on Python projects!
 - 📫 How to reach me @pythonjazz on Twitter!
